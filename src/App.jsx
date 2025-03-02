@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-   this react app check
+   this react app checkhihju
     </>
   )
 }
